@@ -1,2 +1,4 @@
 requests
 pillow
+customtkinter
+python-dotenv
